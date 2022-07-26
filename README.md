@@ -1,7 +1,6 @@
-# pandas-challenge
-Pandas homework assignment
+# PyCitySchools
 
-In this assignment, we looked at standardized test results from schools across a school district.
+In this jupyter notebook,  standardized test results from schools across a school district were analyzed.
 
 Tables were created to view an overall summary of the district and a summary by each school. The school summary table allowed us to view the top and bottom performing schools.
 
